@@ -1,0 +1,15 @@
+var sprite1 = createSprite(30,50,60,10)
+sprite1.shapeColor = "black"
+var sprite2 = createSprite(90,8,10,140);
+sprite2.shapeColor = "black"
+var sprite3 = createSprite(100,79,100,10);
+sprite3.shapeColor = "black"
+var sprite4 = createSprite(55,100,10,50);
+sprite4.shapeColor = "black"
+var sprite5 = createSprite(100,120,100,10);
+sprite5.shapeColor = "black"
+var sprite6 = createSprite(-25,93,100,10 )
+sprite6.shapeColor = "black"
+function draw(){
+drawSprites()
+}
